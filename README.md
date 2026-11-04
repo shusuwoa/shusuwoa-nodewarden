@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="./README_ZH.md">中文</a> |
+  <a href="./README_ZH.md">中文abc</a> |
   <a href="./CONTRIBUTING.md">Contributing</a> |
   <a href="https://nodewarden.app">Official wiki</a>
 </p>
